@@ -3,7 +3,7 @@ The Eaglercraft is under acquiring in progress.
 the Eaglercraft Will Be Renamed CraftMaster.
 until then. do not use this project!
 
-# Minecraft: Approximaster Edition 1.20.5
+# Craftmaster: Approximaster Edition 2004
 
 ![eaglercraft](https://g.deev.is/eaglercraft/cover.png)
 :-:
