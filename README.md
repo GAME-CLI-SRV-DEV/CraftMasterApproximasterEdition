@@ -1,6 +1,6 @@
 # Acquiring in Progress:
 The Eaglercraft is under acquiring in progress.
-
+the Eaglercraft Will Be Renamed CraftMaster.
 until then. do not use this project!
 
 # Minecraft: Approximaster Edition 1.20.5
