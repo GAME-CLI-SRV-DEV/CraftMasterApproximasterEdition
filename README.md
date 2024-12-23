@@ -1,22 +1,13 @@
-# This repository will be deleted imminently
+# Acquiring in Progress:
+The Eaglercraft is under acquiring in progress.
 
-### Create a fresh fork ASAP to preserve it, you MUST fork a 100% fresh copy in order for the repository to be considered genuine
+until then. do not use this project!
 
-### Please read `LAX1DUDE_SIGNATURE.txt` for instructions to verify this is an original copy, if the file is not present then do not use this copy of the project
-
-### LAX1DUDE's PGP key is here: [https://deev.is/certs/LAX1DUDE_eagler_public.asc](https://deev.is/certs/LAX1DUDE_eagler_public.asc)
-
-### Do not edit this README, modifying any file will invalidate the repository's checksum
-
-### Download your worlds off of [https://g.deev.is/eaglercraft/](https://g.deev.is/eaglercraft/) and alts in case of a URL change for the demo client
-
-### MY LAN WORLD RELAYS (relay.deev.is, relay.lax1dude.net) WILL REMAIN ONLINE FOR CONVENIENCE
-
-# Eaglercraft
+# Minecraft: Approximaster Edition 1.20.5
 
 ![eaglercraft](https://g.deev.is/eaglercraft/cover.png)
 :-:
-Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. It supports both singleplayer and multiplayer.
+Eaglercraft is real Minecraft 1.20.5 that you can play in any regular web browser(Warn:). That includes school chromebooks, it works on all chromebooks. It supports both singleplayer and multiplayer.
 
 **Currently maintained by [ayunami2000](https://github.com/ayunami2000)**
 
